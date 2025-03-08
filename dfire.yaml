@@ -1,0 +1,9 @@
+# Chemins vers les ensembles d'entraînement et de validation
+train: ../D-Fire-mini/train/images
+val: ../D-Fire-mini/test/images
+
+# Nombre de classes
+nc: 2
+
+# Noms des classes
+names: ['smoke', 'fire']
